@@ -1,0 +1,103 @@
+Vendor ID,Vendor Name,Address 1,Address 2,City,State,Zip Code,Credit Limit,Current Balance,Highest Balance,Hold,Vendor Class ID,Vendor Contact
+ACETRAVE0001,A Travel Company,123 Riley Street,,Sydney,NSW,2086,Unlimited,6713.27,9612.35,No,AUS-NSW-M,Greg Powell
+ADVANCED0001,Advanced Office Systems,678 Sherwood Park South,,Arlington Heights,IL,60004-2922,Unlimited,74938.64,77480.84,No,USA-US-M,Janice Berman
+ALLENSON0001,Allenson Properties,543 Washington,,Chicago,IL,60608,Amount,11565.76,11565.76,No,USA-US-M,Doug Allen
+AMERICAN0001,AmericaCharge,1234 Allen Street East,,Chicago,IL,60607-0022,Unlimited,22500,24358,No,USA-US-M,Dan Martin
+ATTRACTI00001,Attractive Telephone Co.,P.O. Box 9876,,Chicago,IL,60609-9336,Unlimited,86016.41,93831.63,No,USA-US-I,Ford Marks
+ASSOCIAT0001,Associated Insurance Inc.,12345 West Pennsylvania Ave.,,Waterville,ME,04901-0001,Unlimited,333.93,3143.03,No,USA-US-M,Wade Tonnesson
+AUSTRALIA,AUSTRALIA,,,,,,Unlimited,0,0,No,,
+BEAUMONT0001,Beaumont Construction,1234 East Crestview Drive,,Chicago,IL,60607-2321,Unlimited,0,10841.45,No,USA-US-M,Phil Beaumont
+BERGERON0001,Bergeron Communications Sol.,876 12 London Ave.,,Montreal,PQ,H8Y 8G5,Unlimited,0,0,No,CAN-ALL-M,Francine M. Gergeron
+BLOOMING0001,Bloomington County,5432 West Main,,Chicago,IL,60506-1002,Unlimited,0,0,No,USA-US-M,County Treasurer
+BURNETTT0001,Burnett Travel Associates,876 Coventry Ave.,,Auckland,,,Unlimited,10697.38,10697.38,No,NEW-M,Pamela Owen
+BUSINESS0001,Business Equipment Center,789 McMillan St,,Toronto,ON,M3E 1R8,Amount,10529.18,10529.18,No,CAN-ALL-M,Beverly Gates
+CAPITALP0001,Capital Printed Circuits,12345 Cherry Lane,,Vancouver,BC,V6T 2W4,Unlimited,46826.77,58892.07,No,CAN-ALL-I,Wayne Baunstead
+CARLSONS0001,Carlson Specialties,4567 Orchard Lane,,Chicago,IL,60607-3439,Amount,1112.89,1112.89,No,USA-US-M,Wendy Fabin-Carlson
+CENTRALC0001,"Central Cellular, Inc.",7654 Hirsten Road,,Houston,TX,77055,Unlimited,7031.81,36450.55,No,USA-US-I,John Carvell
+CHICAGOC0001,Chicago City Tax Dept.,"City Hall, Dept. T",876 4th Ave. South,Chicago,IL,60607,Unlimited,0,0,No,USA-US-M,Joe Hedlin
+CHICAGOR0001,Chicago Rent-All,P.O. Box 1234,,Chicago,IL,60608-2324,Amount,0,3615.11,No,USA-US-M,Ramzi Naar
+CIRCUITD0001,Circuit Distributing West,Box 34567,,Winnipeg,MB,R3C 3J3,Unlimited,0,99927.81,No,CAN-ALL-I,Jeff Ryder
+COMNETEN0001,"Comnet Enterprises, Inc",45678 Long St North,,San Francisco,CA,94102-5725,Unlimited,0,19850.1,No,USA-US-C,Maxwell Dixon
+COMPUTER0001,Computer Training Systems,876 Prescot Ave,,St. Louis,MO,63108-3862,Unlimited,0,9718.7,No,USA-US-C,Marhta Rust
+COMVEXIN0001,"ComVex, Inc.",5678 Interstate,,St. Louis,MO,63109-5982,Unlimited,0,90526.92,No,USA-US-I,Bob Larson
+CONSUMER MAG,Consumer Magazine,,,,,,Unlimited,0,55,No,,
+CONTINEN0001,Continental Connectors,9876 345th St West,,Calgary,AB,T4P 2B9,Unlimited,0,65932.66,No,CAN-ALL-I,Mark Reynolds
+COWLEYEN0008,Cowley Engineering,123 Coventry Ave.,,Auckland,,,Unlimited,0,0,No,,Joan Gardner
+CRUGEREN0001,Cruger Engineering Company,12345 West Broadwalk,,New York,NY,10001-988,Unlimited,0,40197.08,No,USA-US-I,Kalim Rasheed
+GREENWOO0001,Greenwood Trust Company,P.O. Box 12345,,Wilmington,DE,19703,Unlimited,0,0,No,USA-US-M,Kim Anderson
+DOLECKIC0001,Dolecki Catering,6543 Lexington Ave East,,Chicago,IL,60607-0833,Amount,3819.11,4906.44,No,USA-US-M,"Tony Dolecki, Jr."
+ELECTRO0001,Electronic Telephone Co.,East 3456 Square,,Seattle,WA,98007,Unlimited,0,0,No,USA-US-I,Ron Olson
+ELECTRON0001,Electronic Services,789 45 Ave.,,Winnipeg,MB,R8S 4T9,Unlimited,105976.21,117769.78,No,CAN-ALL-C,Brian Doron
+ELECTRON0003,Hill's Brokerage Service,876 Marquis Street,,St. John's,NF,A3R 8H3,Unlimited,0,0,No,CAN-ALL-M,John Hill
+TIMELYSH0001,Timely Shipping Service,2345 69 Ave East,,Chicago,IL,60608-2357,Unlimited,344.5,1853.93,No,USA-US-M,
+WOODGROV0001,Woodgrove Bank,P.O. Box 12345,,Wilmington,DE,19850,Unlimited,0,0,No,USA-US-M,
+UPTOWNTR0001,Uptown Trust,87654 Copperhead Road,,Chicago,IL,60608-3432,Unlimited,0,0,No,USA-US-M,Lamarr Turner
+GARDNERS0001,Gardner Services,456 Townsquare Village,,St. Petersburg,FL,33702,Unlimited,0,24000,No,USA-US-C,Jack Wolf
+GKCLEANI0001,G & K Cleaning,234 7 Ave. South,,Wauconda,IL,60084,Unlimited,0,1531.59,No,USA-US-M,Janice Samuels
+AUTOFINA0001,Auto Financing,6789 Broadway,,Grand Rapids,MI,49501-6734,Unlimited,0,0,No,USA-US-M,Lindsey Guidera
+GREENLAK0001,Green Lake Wire Company,987 Chesapeake Drive,,Newark,NJ,07101,Unlimited,0,91201.89,No,USA-US-I,Benny Wyne
+GUNTHARS0004,Gunthar's Sound Engineers,987 Palm Street,,Auckland,,,Unlimited,0,0,No,,Garrett Swift
+HARVEYEL0001,"Harvey, Ellis & McGraw, Ltd.",987 Riley Park North,,Chicago,IL,60608-3444,Unlimited,0,0,No,USA-US-M,Raymond Ellis
+HILLSBRO0001,Hill,,,,,,Unlimited,0,2306.66,No,,
+DISTANTI0001,Distant Inns-Canada,456 Market St,,Montreal,PQ,H3R 3T2,Unlimited,0,10418.1,No,CAN-ALL-M,Vanessa Jones
+ILSTATE0001,Illinois State Tax Dept.,567 State St.,,Springfield,IL,62701,Unlimited,0,0,No,USA-US-M,Jeff Greenley
+IMAGEMAK0001,Image Makers Advertising,876 Plymouth Hwy,,Milwaukee,WI,53203,Unlimited,8512.23,9865.25,No,USA-US-M,Linda Butterfield
+BUSINESS MAG,Business Magazine,,,,,,Unlimited,50,50,No,,
+INLANDRE0001,Inland Revenue Department,876 Karamu Road South,,Auckland,,,Unlimited,0,0,No,NEW-M,
+INLINESE0001,Inline Service Systems,543 44 Ave North,,Omaha,NE,68117,Unlimited,19426.88,20857.72,No,USA-US-C,Lary Issacs
+INNERCIT0001,Inner City Electric,78 West River Road,,Chicago,IL,60608-7133,Unlimited,7827.87,20799.38,No,USA-US-M,
+INSTATET0001,Indiana State Tax Dept.,678 Capital Ave.,,Indianapolis,IN,46201,Unlimited,0,0,No,USA-US-M,
+INTEGRAT0001,Integrated Systems,4321 172 St.,,Edmonton,AB,T7H 2M8,Unlimited,66809.85,66809.85,No,CAN-ALL-C,Service Dept.
+INTERNAL0001,Internal Revenue Service,1234 K Street,,Washington,DC,20506-2100,Unlimited,0,0,No,USA-US-M,
+INTERNAT0001,International TeleCom Assoc.,9876 28 St,,Vancouver,BC,V6T 2W4,Unlimited,105507.71,112004.41,No,CAN-ALL-C,Joe Farrow
+INTERNAT0002,International TeleCom Assoc,456 Glen Eira Place,,Sydney,NSW,2086,Unlimited,127760.09,127760.09,No,AUS-NSW-C,"Jordan, Katie"
+INTERNAT0003,International Telephone,2345 East Brown Ave,,New York,NY,10001-0239,Unlimited,13589.76,19453.53,No,USA-US-C,Scott Dewyer
+INTERNAT0004,International Wire,1234 State St,,Baltimore,MD,21209-1010,Unlimited,0,72769.84,No,USA-US-I,Darnell Roberts
+JENSENSY0001,Jensen Systems,678 Prince Court,,Edmonton,AB,T95 9K8,Unlimited,0,0,No,CAN-ALL-M,Erin L. Jensen
+KNOPFLER0001,Knopfler Management,8765 South Morgan Creek,,Wauconda,IL,60084,Unlimited,9588.19,11108.19,No,USA-US-M,Ben Jordan
+LEAFRIVE0001,Leaf River Paging Systems,RR123,Box ABC,Ames,IA,50100-5383,Unlimited,19153.02,35385.43,No,USA-US-I,David Frank
+LINDELLB0001,Lindell Brokerage,345 E Seymour,,Victoria,BC,v8e 1t3,Unlimited,4385.98,4385.98,No,CAN-ALL-M,Chris Charno
+MARSH0000001,Ian Marsh,789 Roswell Drive,,Sydney,NSW,2086,Unlimited,0,0,No,,Ian Marsh
+FABRIKAM0001,Fabrication Company,Box 1234,,Ft. Worth,TX,76018-3329,Unlimited,0,125236.14,No,USA-US-I,Jean LaFontaine
+MERITSYS0001,Merit System,234 Main Ave.,,Halifax,NS,B4R 8T5,Unlimited,55163.88,55962.1,No,CAN-ALL-C,Claude Ricard
+METROBUS0001,Metro Business Equipment,765 McMillan Ave.,,Bolingbrook,IL,60439-8986,Unlimited,4737.33,5585.28,No,USA-US-M,Sales Dept.
+MIDWESTA0001,"Midwest Accounts, Inc.",4567 Kimberly Ave South,,Blue Island,IL,60406,Unlimited,1749.65,1749.65,No,USA-US-M,JoAnn Lincoln
+MIDWESTT0001,Midwest Travel Center,432 Market Drive,,Chicago,IL,60607,Unlimited,45167.91,45167.91,No,USA-US-M,Isabella Baretti
+MINSTATE0001,Minnesota State Tax Dept.,456 Minnesota Blvd,,St. Paul,MN,55101,Unlimited,0,0,No,USA-US-M,Paul Riesen
+MITCHELL0001,Mitchell Transport,432 45 St,,St. John,NB,E3K 2M9,Unlimited,3777.96,3777.96,No,CAN-ALL-M,Jacques Burton
+MORGANEL0007,Morgan Electronics,876 Lombard,,Plamerston North,,,Unlimited,0,0,No,,Leo Wilcox
+MOSTATET0001,Missouri State Tax Dept.,123 First Ave. South,,Jefferson City,MO,65101,Unlimited,0,0,No,USA-US-M,Jill Smith
+NATLASSO0001,Natl Association of Workers,2345 Hazelton Drive,,Chicago,IL,60606,Unlimited,0,0,No,USA-US-M,Christing Stahlburg
+NESTATE0001,Nebraska State Tax Dept.,1234 Cornhusker Highway,,Lincoln,NE,68307,Unlimited,0,0,No,USA-US-M,
+MULTINAT0001,Multinational Commmunications,3456 N Frontage Road,,Grand Rapids,MI,49501,Unlimited,11536,21536,No,USA-US-C,Gary Rogers
+NORTHERN0001,Northern Travel,"Place 123, Suite 321",12345 63 Avenue,Edmonton,AB,T3K 3H8,Unlimited,19237.74,19237.74,No,CAN-ALL-M,Amanda Ford
+OFFICEDE0001,"Office Design Systems, Ltd",Appletree Square 987,,Lethbridge,AB,T5V 1B1,Unlimited,12141.53,12141.53,No,CAN-ALL-M,Janice LeFebrve
+OFFICESP0001,Office Specialists,321 Highland Road,,Chicago,IL,60608-0027,Unlimited,8642.21,8642.21,No,USA-US-M,Jake Nielson
+PAGEMAST0001,PageMaster,4567 Cypress Creek Rd.,,Ft. Lauderdale,FL,33301-4001,Unlimited,46256.75,56279.16,No,USA-US-I,Paul Carey
+PERMIERS0001,"Premier System, Inc.",2345 Sylvania Ave.,,Toledo,OH,43601-2800,Unlimited,0,0,No,USA-US-C,Troy Wilson
+PROFESSI0001,Professional Travel Consultant,1234 Highland Road,,Chicago,IL,60608-0027,Unlimited,3924.24,3924.24,No,USA-US-M,Rita Volsky
+READYREN0001,Ready Rentals,321 Wellbank Street,,Sydney,NSW,2086,Unlimited,3866.05,3866.05,No,AUS-NSW-M,Alan Thompson
+RELIANCE0001,"Reliance Systems, Inc.",9876 Western Drive,,Ames,IA,50010-1098,Amount,0,0,No,USA-US-C,Leslie Tellez
+REVENUEC0001,Revenue Canada,543 Talbot St.,,Ottawa,ON,K2A 3B5,Unlimited,9532.12,9532.12,No,CAN-ALL-M,Receiver General of Canada
+REVENUEC0002,Revenue Canada,Taxation Centre,123 Adelaide Blvd.,Toronto,ON,K5A 1C7,Unlimited,0,0,No,CAN-ALL-M,Reciever General of Canada
+SERV SPEC,SERV SPEC,,,,,,Unlimited,950,950,No,,
+SIGNATUR0001,Signature Systems,2345 W 67 Ave.,,Detroit,MI,48234-2387,Amount,16011.43,69698.18,No,USA-US-I,Sara Menz
+SIGNATUR0002,Signature Services,34567 Meadow Lane,,San Francisco,CA,94102-4924,Unlimited,24361.81,25028.98,No,USA-US-C,
+SKYLABS0001,Skylab Satellite Inc.,4321 S 72 St.,,Peru,IN,46970,Unlimited,39357.05,127590.15,No,USA-US-I,Michelle Bezyak
+SOFTEL000001,"SofTel, Inc.",456 Santa Rosa Blvd.,,San Luis Obispo,CA,93401,Amount,32261.7,47715.44,No,USA-US-I,Mike Sherman
+JIM STEWART,JIM STEWART,,,,,,Unlimited,0,0,No,,
+STRATEGI0001,Strategic Communications,567 Kent Street,,Auckland,,,Unlimited,28019.55,28019.55,No,NEW-C,Rose Yeats
+SUPERIOR0001,Superior Telephone Systems,987 Main St.,,Vancouver,BC,V4E 5E2,Unlimited,44994.93,44994.93,No,CAN-ALL-C,Kelly Houseman
+SUPERSALES INC.,SUPERSALES INC.,,,,,,Unlimited,450,450,No,,
+TELECONN0001,Teleconnect Systems Inc.,8765 145 St. W.,,St. Cloud,MN,56301-9023,Amount,21500,21500,No,USA-US-C,Barbara Kennedy
+TELESATE0006,Tele-Satellite Industries,765  Rosemont,,Auckland,,,Unlimited,0,10000,No,,Nancy Dowd
+TRAINING0001,Training Systems,321 Arbutus St,,Montreal,PQ,H3R 3T2,Unlimited,68358.91,68358.91,No,CAN-ALL-C,Nancy Dutchak
+UNITEDON0002,United On-Line,234 Baxter,,Palmerston North,,,Unlimited,0,0,No,,Robert Grey
+SHIPPING0001,Shipping specialists,1234 Miner Ave SW,,Chicago,IL,60607-1480,Unlimited,4945.53,4945.53,No,USA-US-M,Germaine Brown
+VISIONAD0001,Vision Advertising Inc.,9876 Montreal-Toronto Blvd.,,Montreal,PQ,H5X 3N2,Unlimited,1918.61,1918.61,No,CAN-ALL-M,Patrick LaForge
+VISTATRA0001,Vista Travel,567 Broadway,,Toronto,ON,K5A 5B7,Unlimited,8547.23,8547.23,No,CAN-ALL-M,Ron Carr
+WESTAMER0001,WestAmerica Telephone Co.,3456 Victoria Drive,,Liberty,IL,60048-7888,Unlimited,5134.06,42380.44,No,USA-US-M,
+WESTJUNC0001,West Junction Service,876 Main Street South,,Chicago,IL,60608-4949,Unlimited,0,990.89,No,USA-US-M,
+WEST,PAUL WEST,,,,,,Unlimited,0,0,No,,
+WOODCONS0001,Wood Consulting,1234 Lakeshore Dr.,,Toronto,ON,M5C 2V5,Unlimited,0,0,No,CAN-ALL-M,Gary W. Wood
+TREYRESE0001,Trey Research,P.O. Box 5678,,Chicago,IL,60608-5990,Unlimited,12723.11,29024.07,No,USA-US-M,Alan Pintar
