@@ -1,10 +1,105 @@
-ResellerID,Reseller Name,Website URL
-AUSTRALIA-T8,Australian customers,https://www.ilink-digital.com/ilink-events/
-CAN-ABBCYKNWTT7,"AB,BC,YK,NT, customers",https://www.ilink-digital.com/ilink-events/
-CAN-ONMBSK-T6,"ON, MB, SK,  customers",https://www.ilink-digital.com/ilink-events/
-CAN-PQMT-T5,"PQ,NF,NB,NS,PEI customers",https://www.ilink-digital.com/ilink-events/
-NEWZEALAND-T8,New Zealand customers,https://www.ilink-digital.com/ilink-events/
-USA-IAKSNE-T3,"IA, KS and NE customers",https://www.ilink-digital.com/ilink-events/
-USA-ILMO-T1,IL and MO customers,https://www.ilink-digital.com/ilink-events/
-USA-INMI-T2,IN and MI customers,https://www.ilink-digital.com/ilink-events/
-USA-MNWI-T4,MN and WI customers,https://www.ilink-digital.com/ilink-events/
+CustomerID,Address,City,Country,Full Name,Reseller ID,State,Zip
+AARONFIT0001,"One Microsoft Way, Redmond, WA",Redmond,USA,Aaron Fitz Electrical,USA-ILMO-T1,WA,98052-6399
+ADAMPARK0001,"Suite 9876, Indianapolis, IN",Indianapolis,USA,Adam Park Resort,USA-INMI-T2,IN,46206-1391
+ADVANCED0001,"456 19th Street S., Chicago, IL",Chicago,USA,Advanced Paper Co.,USA-ILMO-T1,IL,60603-911
+ADVANCED0002,"8765 66 Ave., Toronto, ON",Toronto,Canada,Advanced Tech Satellite System,CAN-ONMBSK-T6,ON,M8D 7R5
+ALTONMAN0001,"P.O. Box 3343, Detroit, MI",Detroit,USA,Alton Manufacturing,USA-INMI-T2,MI,48233-3343
+AMERICAN0001,"789 North Carlton Place, St. Louis, MO",St. Louis,USA,American Science Museum,USA-ILMO-T1,MO,63115
+AMERICAN0002,"3456 North Calumet Avenue, Iowa City, IA",Iowa City,USA,American Electrical Contractor,USA-IAKSNE-T3,IA,52240-1827
+ASSOCIAT0001,"321 Garden Mall, Lincoln, NE",Lincoln,USA,Associated Insurance Company,USA-IAKSNE-T3,NE,68502-3090
+ASTORSUI0001,"987 West Alaska Ave, Gary, IN",Gary,USA,Astor Suites,USA-INMI-T2,IN,46401-3455
+ATMORERE0001,"567 W 7th St., Bloomington, IL",Bloomington,USA,Atmore Retirement Center,USA-ILMO-T1,IL,61701-9392
+BAKERSEM0001,"789 University Ave, Fort Wayne, IN",Fort Wayne,USA,Baker's Emporium Inc.,USA-INMI-T2,IN,46802-3918
+FOURTHCO0001,"345 Industrial Drive, Beatrice, NE",Beatrice,USA,Fourth Coffee,USA-IAKSNE-T3,NE,68350-1010
+BERRYMED0001,"Suite 123, Fond Du Lac, WI",Fond Du Lac,USA,Berry Medical Center,USA-MNWI-T4,WI,54935-9990
+BOYLESCO0001,"1234 Burke, Melbourne, VIC",Melbourne,Australia,Boyle's Country Inn's,AUSTRALIA-T8,VIC,3000
+BREAKTHR0001,"3456 Arbutus St., Montreal, PQ",Montreal,Canada,Breakthrough Telemarketing,CAN-PQMT-T5,PQ,H3R 3T2
+CONTOSOL0001,"456 Mineral Point Road, Omaha, NE",Omaha,USA,"Contoso, Ltd.",USA-IAKSNE-T3,NE,68145-2401
+CASTLEIN0001,"234 103 Ave., Ottawa, ON",Ottawa,Canada,Castle Inn Resort,CAN-ONMBSK-T6,ON,K4T 8W2
+CELLULAR0001,"5678 Horseshoe Way, Aurora, IL",Aurora,USA,Cellular Express,USA-ILMO-T1,IL,60507-3322
+CENTERSU0001,"8765 51 Ave S, Minneapolis, MN",Minneapolis,USA,Center Suite Hotel,USA-MNWI-T4,MN,55401-7694
+CENTRALC0001,"2345 Aukland St. West, Chicago, IL",Chicago,USA,Central Communications LTD,USA-ILMO-T1,IL,60601-2333
+CENTRALD0001,"Suite 13, La Crosse, WI",La Crosse,USA,Central Distributing,USA-MNWI-T4,WI,54601-9975
+CENTRALI0001,"765 West 24th Street, Peoria, IL",Peoria,USA,Central Illinois Hospital,USA-ILMO-T1,IL,61601-4542
+COMMUNIC0001,"Place 123, Suite 3, Winnipeg, MB",Winnipeg,Canada,Communication Connections,CAN-ONMBSK-T6,MB,R3M 2G6
+COMMUNIC0002,"765 Curtis, Vancouver, BC",Vancouver,Canada,Communication Connections,CAN-ABBCYKNWTT7,BC,V6C 3J9
+COMPUTEC0001,"23456 Meridan St. N.E., Green Bay, WI",Green Bay,USA,Compu-Tech Solutions,USA-MNWI-T4,WI,54305-5303
+COMPUTER0001,"456 17 St S, Madison, WI",Madison,USA,Computerized Phone Systems,USA-MNWI-T4,WI,53701-6652
+COMPUTER0002,"9876 Bernard St., Edmonton, AB",Edmonton,Canada,Computers Unlimited,CAN-ONMBSK-T6,AB,T5J 2G5
+COMPUTER0003,"123 Churchill Rd, Sydney, NSW",Sydney,Australia,Computer Equipment Leasing,AUSTRALIA-T8,NSW,2000
+COMTELPA0001,"23456 82 Ave., Ames, IA",Ames,USA,Comtel-Page Inc.,USA-IAKSNE-T3,IA,50010-3976
+CONTINEN0001,"678 Falcon, Sydney, NSW",Sydney,Australia,Continental Properties,AUSTRALIA-T8,NSW,2000
+COUNTRYV0001,"123 Albert Ave, Palmerston North, ",Palmerston North,New Zealand,Country View Estates,NEWZEALAND-T8,,
+CRAWFORD0001,"321 Park Drive, Columbia, MO",Columbia,USA,"Crawfords, Inc.",USA-ILMO-T1,MO,65201-3322
+DATACOMM0001,"9876 112 St., Edmonton, AB",Edmonton,Canada,Data Communications Inc.,CAN-ABBCYKNWTT7,AB,T5P 1T1
+DIALDIRE0001,"1234 SE Marine, St. Louis, MO",St. Louis,USA,Dial Direct Paging Inc.,USA-ILMO-T1,MO,63155-2343
+DIRECTMA0001,"8765 9 St. W., St. Paul, MN",St. Paul,USA,Direct Marketers,USA-MNWI-T4,MN,55101-8011
+DOLLISCO0001,"765 Kingway, Charlottetown, PEI",Charlottetown,Canada,Dollis Cove Resort,CAN-PQMT-T5,PEI,C1A 1W3
+GETAWAYI0001,"234 E Cannon Ave., Saginaw, MI",Saginaw,USA,Getaway Inn,USA-INMI-T2,MI,48605
+EXECUTIV0001,"123 Alfred St, Sydney, NSW",Sydney,Australia,Executive Resources,AUSTRALIA-T8,NSW,2000
+FRANCHIS0001,"456 Sherwood Park South, Arlington Heights, IL",Arlington Heights,USA,Franchise Office Machines,USA-ILMO-T1,IL,6004-2922
+GREENWAY0001,"87654 N 19th Avenue, Chicago, IL",Chicago,USA,Greenway Foods,USA-ILMO-T1,IL,60601-6363
+HAMPTONV0001,"234 Hampton Village, Springfield, IL",Springfield,USA,Hampton Village Eatery,USA-ILMO-T1,IL,62703-1252
+HEALTHYC0001,"1234 Westown Road, West Des Moines, IA",West Des Moines,USA,Healthy Concepts,USA-IAKSNE-T3,IA,50625-4424
+HEARTLAN0001,"9876 Stevens Street, Kansas City, MO",Kansas City,USA,Heartland Tower Systems,USA-ILMO-T1,MO,64108
+HOLLINGC0001,"123 Sugar Grove, Columbia, MO",Columbia,USA,Holling Communications Inc.,USA-ILMO-T1,MO,65201-3846
+HOMEFURN0001,"234 Heritage Ave., Midland, MI",Midland,USA,Home Furnishings Limited,USA-INMI-T2,MI,48640-9392
+INTERNAT0001,"8765 58th Street West, St. Louis, MO",St. Louis,USA,International Mailing Corp.,USA-ILMO-T1,MO,63156-5902
+ISNINDUS0001,"987 Union Circle, Lockport, IL",Lockport,USA,ISN Industries,USA-ILMO-T1,IL,60441-2239
+JOHNSONK0001,"5678 S. 42nd Ave., Rockford, IL",Rockford,USA,"Johnson, Kimberly",USA-ILMO-T1,IL,61125-6149
+KELLYCON0001,"123 Yeo, Melbourne, VIC",Melbourne,Australia,Kelly Consulting,AUSTRALIA-T8,VIC,3000
+KENSINGT0001,"12345 Redmond Rd, Milwaukee, WI",Milwaukee,USA,Kensington Gardens Resort,USA-MNWI-T4,WI,53204-9900
+LASERMES0001,"98765 Crossway Park Dr, Bloomington, MN",Bloomington,USA,Laser Messenger Service,USA-MNWI-T4,MN,55304-9840
+LAWRENCE0001,"12345 21st Ave S, Lawrence, KS",Lawrence,USA,Lawrence Telemarketing,USA-IAKSNE-T3,KS,66208
+LECLERC0001,"4321 West Broadway, Montreal, PQ",Montreal,Canada,LeClerc & Associates,CAN-PQMT-T5,PQ,H4Q 6J8
+LEISURET0001,"City 123, Sydney, NSW",Sydney,Australia,Leisure & Travel Consultants,AUSTRALIA-T8,NSW,2000
+LONDONBE0001,"987 Portar Street, Auckland, ",Auckland,New Zealand,Londonberry Nursing Home,NEWZEALAND-T8,,
+MAGNIFIC0001,"987 45 Ave., Winnipeg, MB",Winnipeg,Canada,Magnificent Office Images,CAN-ONMBSK-T6,MB,R2S 3S7
+MAHLERST0001,"4321 McDaniels Rd, Minneapolis, MN",Minneapolis,USA,Mahler State University,USA-MNWI-T4,MN,55404-4000
+MANCHEST0001,"678 W Orange Ave, Lafayette, IN",Lafayette,USA,Manchester Suites,USA-INMI-T2,IN,47905-5855
+BLUEYOND0001,"P.O. Box 1234, Wichita, KS",Wichita,USA,Blue Yonder Airlines,USA-IAKSNE-T3,KS,67201
+COHOWINE0001,"234 Hickman St., Springfield, IL",Springfield,USA,Coho Wintery,USA-ILMO-T1,IL,62703
+MENDOTAU0001,"8765 College Drive, Grand Rapids, MI",Grand Rapids,USA,Mendota University,USA-INMI-T2,MI,49548-3343
+METROPOL0001,"5678 W. Jackson Ave, Milwaukee, WI",Milwaukee,USA,Metropolitan Fiber Systems,USA-MNWI-T4,WI,53202-5713
+MIDCITYH0001,"9876 N. Pioneer Road, Gary, IN",Gary,USA,Mid-City Hospital,USA-INMI-T2,IN,46401-4211
+MIDLANDC0001,"5678 Fraser Ave N., Mishawaka, IN",Mishawaka,USA,Midland Construction,USA-INMI-T2,IN,46544
+MULTITEC0001,"1234 Sunlight Place, Iowa City, IA",Iowa City,USA,Multitech Office Components,USA-IAKSNE-T3,IA,52230-1233
+HUMONGOU0001,"4567 145th St NW, Omaha, NE",Omaha,USA,Humongous Insurance,USA-IAKSNE-T3,NE,68107-4509
+NATIONAL0001,"123 Apple Grove Square, Indianapolis, IN",Indianapolis,USA,National Shopping World,USA-INMI-T2,IN,46205-2393
+NETWORKS0001,"PO Box 2345, Lake Zurich, IL",Lake Zurich,USA,Network Solutions,USA-ILMO-T1,IL,60047-1115
+NORTHCOL0001,"Business Office, Fort Wayne, IN",Fort Wayne,USA,North College,USA-INMI-T2,IN,46802-3313
+NORTHERN0001,"234 Lee Ridge Road, Chicago, IL",Chicago,USA,Northern State College,USA-ILMO-T1,IL,60604-2670
+NORTHERN0002,"987 Royal Park Centre, St. John's, NF",St. John's,Canada,Northern Family Hospital,CAN-PQMT-T5,NF,A1C 1K4
+NORTHSTA0001,"5432 Principal Ave., Mankato, MN",Mankato,USA,Northstar Mall,USA-MNWI-T4,MN,56001
+NOVASCOT0001,"543 Abbot Ave., Halifax, NS",Halifax,Canada,Novia Scotia Tech. Institute,CAN-PQMT-T5,NS,B5P 7D7
+NOVASYST0001,"123 W. Nichols Rd, St. Paul, MN",St. Paul,USA,"Nova Systems, Inc.",USA-MNWI-T4,MN,55104
+OCTAGONM0001,"1234 Redwood Trail, Indianapolis, IN",Indianapolis,USA,Octagon Marketing Org.,USA-INMI-T2,IN,46206-1099
+OFFICEDE0001,"Place 123 Suite 3, Winnipeg, MB",Winnipeg,Canada,Office Design Systems Ltd,CAN-ABBCYKNWTT7,MB,R3M 2G6
+PACIFICD0001,"76543 Commerical Street, Independence, MO",Independence,USA,Pacific Digital,USA-ILMO-T1,MO,64501
+PLACEMAD0001,"9876 Willingdon, Calgary, AB",Calgary,Canada,Place & MacDero Associates,CAN-ABBCYKNWTT7,AB,T2P 4B9
+PLACEONE0001,"4567 East River Road, Vancouver, BC",Vancouver,Canada,Place One Suites,CAN-ABBCYKNWTT7,BC,V6C 3J9
+PLAZAONE0001,"2345 42 St. W, Woodbury, MN",Woodbury,USA,Plaza One,USA-MNWI-T4,MN,55119
+POLKVALL0001,"Rural Route 123 Box 45G, McHenry, IL",McHenry,USA,Polk Valley Highway Dept.,USA-ILMO-T1,IL,60050
+PULASKIE0001,"3456 E. Main Parkway, Duluth, MN",Duluth,USA,Pulaski Enterprises Inc.,USA-MNWI-T4,MN,55806
+RAINBOWR0001,"3456 N. Jupiter St, St Louis, MO",St Louis,USA,Rainbow Research,USA-ILMO-T1,MO,63156-3427
+REDSFOOD0001,"8765 W. Cordoba Way, Kansas City, MO",Kansas City,USA,Red's Food Market,USA-ILMO-T1,MO,64108-1862
+MARGIEST0001,"6789 82 Ave S., Minneapolis, MN",Minneapolis,USA,Margie's Travel,USA-MNWI-T4,MN,55402-1249
+REYNOLDS0001,"456 College Drive, Benton Harbor, MI",Benton Harbor,USA,Reynolds State College,USA-INMI-T2,MI,49022-9090
+DOWNTOWN001,"987 Chestnut Avenue, Chicago, IL",Chicago,,Downtown Hotel,USA-ILMO-T1,IL,60618-2991
+RIVERSID0001,"5678 Herman St., Vancouver, BC",Vancouver,Canada,Riverside University,CAN-ABBCYKNWTT7,BC,V6E 3J7
+ROSELLEN0001,"8765 Barclay St., Regina, SK",Regina,Canada,Rosellen General Hospital,CAN-ONMBSK-T6,SK,S7K 5C7
+SINCLAIR0001,"SSU Box 123, Arlington Heights, IL",Arlington Heights,USA,Sinclair State University,USA-ILMO-T1,IL,60004-6122
+SNELLING0001,"4321 East Wisconsin Ave., Chicago, IL",Chicago,USA,Snelling Communications Inc.,USA-ILMO-T1,IL,60604-4100
+SSPROPER0001,"1234 S. Roberts St., Detroit, MI",Detroit,USA,S & S Properties,USA-INMI-T2,MI,48233-2190
+STMARYHO0001,"2345 N. River Dr., Milwaukee, WI",Milwaukee,USA,St. Mary's Hospital,USA-MNWI-T4,WI,53203-2323
+STPATRIC0001,"234 Phillip, Melbourne, VIC",Melbourne,Australia,St. Patrick's Hospital,AUSTRALIA-T8,VIC,3000
+SUPERFOO0001,"6543 N.E. Pusher Rd., Detroit, MI",Detroit,USA,Super Foods Plus,USA-INMI-T2,MI,48233-1232
+UNIFIEDW0001,"123 N. Meriam Ave, Grand Rapids, MI",Grand Rapids,USA,Unified Wire and Cable Systems,USA-INMI-T2,MI,49548
+VANCOUVE0001,"432 12 Ave. North, Vancouver, BC",Vancouver,Canada,Vancouver Resort Hotels,CAN-ABBCYKNWTT7,BC,V6E 3J7
+VISIONIN0001,"123 S.W.  49 Ave, Indianapolis, IN",Indianapolis,USA,Vision Inc.,USA-INMI-T2,IN,46206-1222
+VISTATRA0001,"5678 Broadway, Saskatoon, SK",Saskatoon,Canada,Vista Travel,CAN-ONMBSK-T6,SK,S5S 6W9
+WESTCENT0001,"1234 2nd Street, Rockford, IL",Rockford,USA,West Central Distributors,USA-ILMO-T1,IL,61126-3214
+WESTSIDE0001,"123 Domino St. N, Lansing, MI",Lansing,USA,Westside Cable Service,USA-INMI-T2,MI,48924-9237
+WORLDENT0001,"987 Office Plaza Drive, Detroit, MI",Detroit,USA,World Enterprises,USA-INMI-T2,MI,48233-4832
+SVCRETURN01,", , ",,,Service,,,
+FABRETURN01,"4277 West Oak Parkway, Chicago, IL",Chicago,United States,Fabrikam Returns,,IL,60601
